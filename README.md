@@ -1,1 +1,1 @@
-# Repository for maintaining adhoc code..
+# Repository for maintaining adhoc code.
